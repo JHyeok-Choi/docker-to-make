@@ -1,0 +1,20 @@
+## .env
+.env
+
+## .vscode
+.vscode
+
+## nodejs
+node/**/node_modules
+node/**/package-lock.json
+node/conf/*
+
+## python venv
+**/.venv
+**/__pycache__/
+**/secret.json
+**/env
+
+# aws
+.c9
+**/uploadedFiles
